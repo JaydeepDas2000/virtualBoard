@@ -1,0 +1,15 @@
+absl-py
+attrs
+comtypes
+dataclasses
+enum34
+future
+mediapipe==0.8.3.1
+numpy
+opencv-python
+protobuf
+psutil
+pycaw
+setuptools
+six
+wheel
